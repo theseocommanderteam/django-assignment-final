@@ -1,0 +1,5 @@
+Add file
+==================
+git add .
+git commit -m "text file 1 upload"
+git push
