@@ -12,5 +12,5 @@ git push -u origin main
 Add file
 ==================
 git add .
-git commit -m "text file"
+git commit -m "text file upload"
 git push
